@@ -10,7 +10,7 @@
      <string name="activation_page_info">Пожалуйста, войдите в аккаунт xiaomi.com, открыть реестр, чтобы защитить и активировать маркер</string>
      <string name="add_account_menu_item">Добавить аккаунт</string>
      <string name="app_name">Xiaomi Authenticator</string>
-     <string name="app_name_lockpattern">Шаблон блокировки</string></string>
+     <string name="app_name_lockpattern">Графический ключ</string></string>
      <string name="app_name_short">Authenticator</string>
      <string name="authenticator_invalid_tip">"Вы можете завершить, закрыв страницу входа или выбрать другой маркер.
 
@@ -70,35 +70,35 @@
      <string name="jump_createpattern_tip">Пропустив установку пароля, вы подвергаете свой аккаунт риску - му не рекомендуем этого делать</string>
      <string name="jump_lockpattern_title">Осторожно</string>
      <string name="jump_updatepattern_tip">Пропустив установку пароля жестом, вы подвергаете свой аккаунт риску - му не рекомендуем этого делать</string>
-     <string name="lockpassword_choose_your_pattern_header">Выберите ваш шаблон</string>
-     <string name="lockpassword_confirm_your_pattern_header">Подтвердите ваш шаблон</string>
-     <string name="lockpassword_input_your_pattern_header">Подтвердите ваш шаблон</string>
+     <string name="lockpassword_choose_your_pattern_header">Выберите ваш ключ</string>
+     <string name="lockpassword_confirm_your_pattern_header">Подтвердите ваш ключ</string>
+     <string name="lockpassword_input_your_pattern_header">Подтвердите ваш ключ</string>
      <string name="lockpattern_confirm_button_text">Подтвердить</string>
      <string name="lockpattern_continue_button_text">Продолжить</string>
-     <string name="lockpattern_need_to_confirm">Нарисуйте шаблон для подтверждения:</string>
+     <string name="lockpattern_need_to_confirm">Нарисуйте ключ для подтверждения:</string>
      <string name="lockpattern_need_to_confirm_wrong">Несоответствие предыдущей записи, пожалуйста введите снова:</string>
      <string name="lockpattern_need_to_unlock_footer" />
      <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Пароль неправильный, вы можете попробовать еще %d раз&lt;/font></string>
      <string name="lockpattern_need_to_unlock_wrong_footer" />
-     <string name="lockpattern_pattern_confirmed_header">Ваш новый шаблон разблокировки:</string>
-     <string name="lockpattern_pattern_entered_header">Шаблон записан.</string>
+     <string name="lockpattern_pattern_confirmed_header">Ваш новый ключ разблокировки:</string>
+     <string name="lockpattern_pattern_entered_header">Ключ записан.</string>
      <string name="lockpattern_recording_incorrect_too_short">Подключите как минимум %d точек. Попробуйте снова:</string>
      <string name="lockpattern_recording_inprogress">Отпустите палец по завершении.</string>
-     <string name="lockpattern_recording_intro_header">Нарисуйте шаблон разблокировки:</string>
+     <string name="lockpattern_recording_intro_header">Нарисуйте графический ключ:</string>
      <string name="lockpattern_redraw_button_text">Перересуйте</string>
      <string name="lockpattern_retry_text"><u>Reset pattern password</u></string>
-     <string name="lockpattern_settings_help_how_to_record">Как нарисовать шаблон разблокировки</string>
+     <string name="lockpattern_settings_help_how_to_record">Как нарисовать графический ключ</string>
      <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Попробуйте снова через %d секунд.</string>
      <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Слишком много неправильных попыток!&lt;/font></string>
      <string name="lockpattern_tutorial_cancel_label">Отмена</string>
      <string name="lockpattern_tutorial_close_label">Закрыть</string>
      <string name="lockpattern_tutorial_continue_label">Следующий</string>
      <string name="lockpattern_tutorial_jump_label">Перейти</string>
-     <string name="lockscreen_forgot_pattern_button_text"><u>Забыть шаблон пароля</u></string>
+     <string name="lockscreen_forgot_pattern_button_text"><u>Забыть графический ключ</u></string>
      <string name="login">Войти</string>
      <string name="main_preference_screen_title">Настройки</string>
      <string name="mycard_scan_barcode">MiID Code Scanner</string>
-     <string name="new_pattern_tip">Пожалуйста, введите&lt;font color=#fb3500>новый&lt;/font>шаблон пароля, соеденив не менее четырех точек</string>
+     <string name="new_pattern_tip">Пожалуйста, введите&lt;font color=#fb3500>новый&lt;/font>графический ключ, соеденив не менее четырех точек</string>
      <string name="ok">OK</string>
      <string name="ok_button">OK</string>
      <string name="open_camera_exception_dialog_content">Проблема с системной камерой, вам необходимо перезагрузить систему</string>
@@ -133,7 +133,7 @@
      <string name="success_copy_to_clipboard">Скопировано в буфер обмена</string>
      <string name="success_reset_password">Пароль сброшен успешно</string>
      <string name="success_set_password">Пароль успешно установлен</string>
-     <string name="summary_lockpattern">Необходим уникальный шаблон замка для MiCredit</string>
+     <string name="summary_lockpattern">Необходим уникальный графический ключ для MiCredit</string>
      <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
      <string name="terms_preference_title">Условия предоставления услуг</string>
      <string name="timesync_about_feature_preference_title">Об этой функции</string>
